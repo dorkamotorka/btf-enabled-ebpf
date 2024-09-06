@@ -2,7 +2,7 @@
 
 This is an example of a BTF-Enabled Program, which means the eBPF verifier in your running kernel is aware of the type information associated with the input arguments passed into the eBPF program.
 
-The section tp_btf/ indicates that this is a BTF-enabled eBPF program.
+The section `tp_btf/` indicates that this is a BTF-enabled eBPF program.
 
 I utilize Golang alongside the ebpf-go package.
 
